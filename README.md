@@ -7,7 +7,7 @@ Swift 패키지 매니페스트 파일에 Alan AI for iOS SDK를 추가합니다
 
 ```swift
 .package(
-    url: "https://github.com/",
+    url: "https://github.com/estcamp-ios3/alan-ios-sdk",
     from: "latest alan-ios-sdk tag"
 )
 ``` 
