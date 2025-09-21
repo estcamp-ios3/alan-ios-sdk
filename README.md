@@ -14,7 +14,7 @@ Swift 패키지 매니페스트 파일에 Alan AI for iOS SDK를 추가합니다
 
 Target의 종속성에 Alan AI를 추가합니다.
 ```swift
-.product(name: "AlanAI", package: "alan-ios-sdk")
+.product(name: "AlanAI", package: "AlanAI")
 ```
 
 ## 사용방법
